@@ -1200,7 +1200,7 @@
 
   "changed.tamed_entity.active": "Aktív",
   "changed.tamed_entity.inactive": "Inaktív",
-  "changed.tamed_entity.title.view_inventory": "Felszerelés megtekintése",
+  "changed.tamed_entity.title.view_inventory": "Eszköztár megtekintése",
   "changed.tamed_entity.title.cycle_follow": "Követési mód",
   "changed.tamed_entity.title.cycle_target_type": "Harc: Célpont típusa",
   "changed.tamed_entity.title.cycle_attack_type": "Harc: Támadás típusa",
